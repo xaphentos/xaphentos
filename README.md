@@ -1,8 +1,6 @@
 # ℹ️ About Me:
 
 - 💻 I’m currently studying programming (frontend).
-- ⚡ I’m currently learning programming (mostly Python, JavaScript).
+- ⚡ I’m currently learning programming (mostly Python, Typescripts or Vue).
 - 🚀 Usually, I work with websites.
-- 🌍 I speak: English
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xaphentos&layout=compact)
+- 🌍 I speak: English 
