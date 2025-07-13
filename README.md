@@ -14,3 +14,10 @@
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
+## 🌟 Enjoying My Projects?
+
+If you find my work helpful or interesting, please check my other project by this link below:
+
+👉 [View All My Repositories](https://github.com/YOUR_USERNAME?tab=repositories)  
+
+Thanks for your support! 💖
