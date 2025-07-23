@@ -13,8 +13,6 @@
 ![npm](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-# My skills stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,nix,nginx,linux,kali,arch,codepen,electron,)](https://skillicons.dev)
 
 
