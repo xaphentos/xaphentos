@@ -3,7 +3,8 @@
 - 💻 I’m currently studying programming (frontend).
 - ⚡ I’m currently learning programming (mostly Python, Typescripts or Vue).
 - 🚀 Usually, I work with websites.
-- 🌍 I speak: English 
+- 🌍 I speak: English
+- 🌍 from: Latvia
 
 # 👔 Skills:
 ![HTML](https://img.shields.io/badge/HTML-5E5E5E?style=for-the-badge&logo=html5&logoColor=white)
