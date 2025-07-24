@@ -15,6 +15,35 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,nix,nginx,linux,kali,arch,codepen,electron,)](https://skillicons.dev)
 
+<!-- Github Stats -->
+<div align="center">
+
+  | Top Languages | Trophies |
+  | --- | --- |
+  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaphentos&layout=compact&theme=tokyonight&hide_border=true&langs_count=20" width="315px"/> | <img src="https://github-profile-trophy.vercel.app/?username=xaphentos&theme=tokyonight&column=4&no-frame=true&margin-w=10&margin-h=10" width="315px"/> |
+  
+  <h3>Github Stats</h3>
+
+  <!-- Profile Summary and Streak -->
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xaphentos&theme=tokyonight" width="680px" />
+  </div>
+
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;"/>
+    <img src="https://streak-stats.demolab.com?user=xaphentos&theme=tokyonight&hide_border=true" width="680px" />
+  </div>
+
+  <!-- Language Stats -->
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xaphentos&theme=tokyonight" width="340px" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xaphentos&theme=tokyonight" width="340px" />
+  </div>
+
+  <!-- Activity Stats -->
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xaphentos&theme=tokyonight" width="340px" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xaphentos&theme=tokyonight&utcOffset=+8.0" width="340px" />
+  </div>
 
 ## 🌟 Enjoying My Projects?
 
