@@ -35,14 +35,8 @@
   </div>
 
   <!-- Language Stats -->
-  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+  <div style="display: flex; justify-content: left; gap: 10px; margin-bottom: 10px;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xaphentos&theme=tokyonight" width="340px" />
-  </div>
-
-  <!-- Activity Stats -->
-  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xaphentos&theme=tokyonight" width="340px" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xaphentos&theme=tokyonight&utcOffset=+8.0" width="340px" />
   </div>
 
 ## 🌟 Enjoying My Projects?
