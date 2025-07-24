@@ -36,7 +36,6 @@
   <!-- Language Stats -->
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xaphentos&theme=tokyonight" width="340px" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xaphentos&theme=tokyonight" width="340px" />
   </div>
 
   <!-- Activity Stats -->
